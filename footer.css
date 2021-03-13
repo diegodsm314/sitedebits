@@ -1,0 +1,15 @@
+
+footer{
+    background-color: #0f1549;
+    color: white;
+    padding: 20px;
+    width: 100%;
+    bottom: 0;
+    position: relative;
+}
+
+#footer{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-variant: small-caps;
+}
